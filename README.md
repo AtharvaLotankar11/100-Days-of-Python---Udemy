@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 ![Days](https://img.shields.io/badge/Days%20Completed-62+-success?style=for-the-badge)
 
 *A comprehensive journey through Python programming, from basics to advanced concepts*
