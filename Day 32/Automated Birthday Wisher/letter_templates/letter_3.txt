@@ -1,0 +1,10 @@
+Dear [NAME],
+
+It's your birthday! Have a great day!
+
+P.S. This was my Udemy PythonCourse Related Content
+regarding Mail Transmission via Python
+
+All my love,
+
+Atharva Lotankar

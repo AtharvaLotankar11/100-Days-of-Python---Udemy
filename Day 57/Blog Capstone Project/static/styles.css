@@ -1,0 +1,136 @@
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+.wrapper {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.top {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.title h1 {
+    font-size: 36px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Index Page Styles */
+.content {
+    margin: 20px 0;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+    font-size: 28px;
+    color: #333;
+}
+
+.card p {
+    font-size: 18px;
+    color: #555;
+}
+
+.card a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.card a:hover {
+    background-color: #45a049;
+}
+
+/* Post Page Styles */
+.card h1 {
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.card h2 {
+    font-size: 28px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.card p {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer p {
+    font-size: 14px;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .wrapper {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .top {
+        padding: 10px;
+    }
+
+    .title h1 {
+        font-size: 28px;
+    }
+
+    .card h2 {
+        font-size: 22px;
+    }
+
+    .card p {
+        font-size: 16px;
+    }
+
+    .card a {
+        font-size: 14px;
+        padding: 6px 12px;
+    }
+
+    footer p {
+        font-size: 12px;
+    }
+}

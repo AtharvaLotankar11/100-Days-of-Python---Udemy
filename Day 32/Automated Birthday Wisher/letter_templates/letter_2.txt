@@ -1,0 +1,10 @@
+Hey [NAME],
+
+Happy birthday! Have a wonderful time today and eat lots of cake!
+
+P.S. This was my Udemy PythonCourse Related Content
+regarding Mail Transmission via Python
+
+Lots of love,
+
+Atharva Lotankar
